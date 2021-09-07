@@ -48,3 +48,7 @@ Thumbs.db
 *.mov
 *.wmv
 
+bin/
+lib/
+lib64/
+.vs_code/
