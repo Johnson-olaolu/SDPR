@@ -52,3 +52,9 @@ bin/
 lib/
 lib64/
 .vs_code/
+
+.vscode/
+bin/
+lib/
+lib64/
+pyvenv.cfg
